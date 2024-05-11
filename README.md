@@ -11,40 +11,5 @@ Just for checking
 https://telegra.ph/file/15e2f5fe1eb667c229c83.jpg
 ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄🇹ᗩℍ𝐢Ꭱ 🅑︎ḦḀṮṮI𑁍⃕͜ൣ᭄
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>GitHub Logo</title>
-  <style>
-    .github-logo {
-      background-color: #24292e;
-      color: #fff;
-      font-size: 24px;
-      padding: 10px 20px;
-      border-radius: 5px;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-  </style>
-</head>
-<body>
-  <div class="github-logo">GitHub</div>
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Blanking Text</title>
-  <style>
-    .blank-text {
-      color: transparent;
-      text-shadow: 0 0 10px rgba(0,0,0,0.5);
-    }
-  </style>
-</head>
-<body>
-  <p class="blank-text">I'm Tahir Bhatti</p>
-</body>
-</html>
+<a href="https://github.com/SuhailTechInfo">
+ <img title="Owner" src="https://img.shields.io/badge/Tahir bhatti-darkred?style=flat-square&logo=github&label=owner"></a>
