@@ -1,3 +1,6 @@
+[![Fork on GitHub](https://img.shields.io/badge/-Fork%20on%20GitHub-brightgreen)](https://github.com/tahirbhatti78/github.com//fork)
+
+
 ![Alt text](https://telegra.ph/file/15e2f5fe1eb667c229c83.jpg)
 
 
