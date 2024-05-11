@@ -10,3 +10,25 @@
 Just for checking 
 https://telegra.ph/file/15e2f5fe1eb667c229c83.jpg
 ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄🇹ᗩℍ𝐢Ꭱ 🅑︎ḦḀṮṮI𑁍⃕͜ൣ᭄
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub Logo</title>
+  <style>
+    .github-logo {
+      background-color: #24292e;
+      color: #fff;
+      font-size: 24px;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <div class="github-logo">GitHub</div>
+</body>
+</html>
