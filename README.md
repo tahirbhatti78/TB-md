@@ -32,3 +32,19 @@ https://telegra.ph/file/15e2f5fe1eb667c229c83.jpg
   <div class="github-logo">GitHub</div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blanking Text</title>
+  <style>
+    .blank-text {
+      color: transparent;
+      text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+  </style>
+</head>
+<body>
+  <p class="blank-text">I'm Tahir Bhatti</p>
+</body>
+</html>
