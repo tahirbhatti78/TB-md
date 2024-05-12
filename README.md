@@ -6,7 +6,7 @@
 ![Alt text](https://telegra.ph/file/15e2f5fe1eb667c229c83.jpg)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://suhail-web01.vercel.app/deploy?platform=suhail)
 
 # TB-md
 
