@@ -6,7 +6,7 @@
 ![Alt text](https://telegra.ph/file/15e2f5fe1eb667c229c83.jpg)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://suhail-web01.vercel.app/deploy?platform=suhail)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
 
 # TB-md
 
@@ -21,3 +21,5 @@
 SUPPORT GROUP: <a href="https://chat.whatsapp.com/EMasksN5EAv1o0Sg56mcQ2"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo**
+!
+<a href="ᚐͥᚐͣᚐ ⷨ𑁍⃕͜ൣ᭄🇹ᗩℍ𝐢Ꭱ 🅑︎ḦḀṮṮI𑁍⃕͜ൣ᭄
