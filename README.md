@@ -10,6 +10,12 @@
 
 # TB-md
 
+<a href="(https://github.com/tahirbhatti78/Tb-bot-mdv2)" target="_blank">
+  <button style="background-color: #337ab7; color: #fff; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">
+    Fork on GitHub
+  </button>
+</a>
+
 
 <a href="https://github.com/SuhailTechInfo">
  <img title="Owner" src="https://img.shields.io/badge/Tahir bhatti-darkred?style=flat-square&logo=github&label=owner"></a>
